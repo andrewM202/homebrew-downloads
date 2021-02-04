@@ -27,4 +27,4 @@ brew install --cask
 - firefox
 - google-chrome
 - iterm2
-- pgadmin4
+- brave-browser
