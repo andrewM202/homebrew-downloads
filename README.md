@@ -21,6 +21,7 @@ brew install
 - openssl@1.1
 - python@3.9
 - tree
+- java
 
 # Casks installed
 brew install --cask
