@@ -3,7 +3,7 @@ A bunch of downloads for homebrew
 
 
 # Packages installed
-- brew install
+brew install
 - editorconfig
 - icu4c
 - pcre2
