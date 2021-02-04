@@ -28,3 +28,4 @@ brew install --cask
 - google-chrome
 - iterm2
 - brave-browser
+- safari-technology-preview
