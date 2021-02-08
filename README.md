@@ -22,6 +22,8 @@ brew install
 - python@3.9
 - tree
 - java
+- lynx
+- autopep8
 
 # Casks installed
 brew install --cask
