@@ -24,6 +24,8 @@ brew install
 - java
 - lynx
 - autopep8
+- postgres
+- prettier
 
 # Casks installed
 brew install --cask
@@ -32,3 +34,10 @@ brew install --cask
 - iterm2
 - brave-browser
 - safari-technology-preview
+- malwarebytes
+
+
+
+# NPM Downloads
+npm install
+- -g parcel-bundler
