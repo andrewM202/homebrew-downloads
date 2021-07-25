@@ -1,3 +1,5 @@
+# to uninstall a package and all dependencies: brew rmrec pkgname
+# htop to see system resources
 # Homebrew-Downloads
 A bunch of downloads for homebrew
 
@@ -23,9 +25,18 @@ python@3.9
 tree
 java
 lynx
-autopep8
+zsh
 postgres
 prettier
+dotnet # dotnet is for C# programming
+fzf # fuzzy finder
+pwgen # password generator
+youtube-dl # download youtube videos
+htop
+nmap # security scanner
+geoip # gives geolocation data for inputted IP address
+sass # dart sass
+mongodb-community
 
 # Casks installed
 brew install --cask
@@ -39,7 +50,13 @@ malwarebytes
 # pip3
 pip3 install
 autopep8
+flask
 
 # NPM Downloads
 npm install
 -g parcel-bundler
+
+# curl
+curl https://cli-assets.heroku.com/install.sh | sh
+
+# vim-plug: https://github.com/junegunn/vim-plug
